@@ -6,5 +6,6 @@ public class Main {
         System.out.println("dsad");
         System.out.println("Linia ");
         System.out.println("coscos");
+        System.out.println("Trzecia linia");
     }
 }
